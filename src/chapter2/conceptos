@@ -1,0 +1,20 @@
+Un paquete en Java es una carpeta/contenedor que contiene archivos Java.
+
+Por convención, las clases de Java comienzan con una letra mayúscula.
+Java no permite espacios en el nombre de una clase. Cuando una clase tiene mas de una palabra se escriben todas juntas
+sin espacios, y empiezan con mayusculas
+
+Las palabras reservadas son palabras que este lenguaje de programación ha decidido que significan algo específico dentro
+del lenguaje y, por lo tanto, no se pueden usar para nombrar cosas dentro de nuestro programa. Por lo tanto, no podríamos
+nombrar algo como "clase", "público" o "paquete" porque estas palabras están reservadas.
+
+Un comentario es algo para el programador, para que lo lean los humanos, no para las computadoras. Por lo tanto, la
+computadora ignorará las líneas que están comentadas y no intentará procesarlas. Entonces, estos son solo para los programadores.
+
+Una variable es esencialmente una ubicación de memoria. Esto almacena datos. Y las variables pueden almacenar todoo tipo
+de datos. Sin embargo, debe declarar qué tipo de datos debe almacenar, ya que los diferentes tipos de datos utilizan
+diferentes cantidades de memoria.
+
+Se pueden agregar numeros a las variables, pero el primer caracter de la variable no puede ser un número.
+Tambien se pueden agregar caracteres especiales como: $ o _ ; pero no -
+
