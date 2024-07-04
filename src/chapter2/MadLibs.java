@@ -3,6 +3,7 @@ package chapter2;
 import java.text.MessageFormat;
 import java.util.Scanner;
 
+//ejercicio independiente
 public class MadLibs {
 
     public static void  main(String[] args){

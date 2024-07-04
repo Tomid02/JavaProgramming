@@ -15,7 +15,7 @@ public class SalaryCalculator {
         //Initialize known values
         int salary = 1000;
         int bonus = 250;
-        int quota = 10;
+        int quota = 10;//evita el uso de numeros magicos
 
         //Get values for the unknown
         System.out.println("How many sales did the employee make this week?");
@@ -24,7 +24,11 @@ public class SalaryCalculator {
         scanner.close();
 
         //Quick detour for the bonus earners
+        if (sales > quota){ //if(sales > 10) 10 es un numero magico, es mejor tenerlo definido en una variable
+            salary = salary + bonus;
+        }
 
         //Output
+        System.out.println("The employee's pay is $" + salary);
     }
 }
