@@ -1,4 +1,4 @@
-package chapter2;
+package chapter2Fundamentos;
 
 import java.text.MessageFormat;
 import java.util.Scanner;

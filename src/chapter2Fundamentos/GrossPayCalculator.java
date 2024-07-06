@@ -1,5 +1,5 @@
 //carpeta a la que pertenece la clase
-package chapter2;
+package chapter2Fundamentos;
 
 import java.util.Scanner;
 
