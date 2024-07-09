@@ -1,8 +1,8 @@
 package chapter4Ciclos;
-//Ejercicio Independiente
 
 import java.util.Random;
 
+//Ejercicio Independiente
 public class RollTheDieGame {
     public static void main(String[] args) {
 

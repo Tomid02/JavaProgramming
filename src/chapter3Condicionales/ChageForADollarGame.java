@@ -2,6 +2,7 @@ package chapter3Condicionales;
 
 import java.util.Scanner;
 
+//Ejercicio Independiente
 public class ChageForADollarGame {
 
     public static void main(String[] args){
